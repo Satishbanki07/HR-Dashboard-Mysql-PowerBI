@@ -5,6 +5,11 @@
 - [Questions](#questions)
 - [Summary of Findings](#summary-of-findings)
 - [Limitations](#limitations)
+
+
+
+![Dashboard](https://github.com/user-attachments/assets/39835c09-80c7-41f2-af0c-9de405bc2a3d)
+
   
 ## Data Used
 ### Data Source
